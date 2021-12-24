@@ -1,7 +1,5 @@
 # Konnichiwa, I'm Oscar Cerna [Ozzy]
 
-<p> I like to make functional things look pretty 😱 <p>
-
 ## .Net Full Stack Developer </> 
 
 ### "Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs
