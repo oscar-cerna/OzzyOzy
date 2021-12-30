@@ -1,4 +1,4 @@
-# Konnichiwa, I'm Oscar Cerna [Ozzy] 👋 
+# Hi, I'm Oscar Cerna aka Ozzy 👋 
 
 ## .Net Full Stack Developer
 
