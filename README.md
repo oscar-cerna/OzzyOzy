@@ -4,7 +4,7 @@
 
 ### "Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs
 
-#### 🧰 Languages and Tools:
+#### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
 
