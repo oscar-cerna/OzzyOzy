@@ -11,7 +11,7 @@ Since deciding to shift careers, I have developed applications using both Node.j
 
 ### Languages and Tools:
 
-<img align="left" alt="C-Sharp" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg
+<img align="left" alt="DotNet" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg
 ">
 
 <img align="left" alt="C-Sharp" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
