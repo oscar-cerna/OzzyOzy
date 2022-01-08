@@ -1,6 +1,6 @@
 # Hi, I'm Oscar Cerna aka Ozzy 👋 
 
-## About Me
+## About Me ㊗️
 <p>
 I am a full-stack .NET developer with experience building multi-tiered web applications. I received my undergrad degree from The Art Institute of Atlanta. After working in the legal field for several years, I decided to shift my career to technology. I've been interested in coding and software development for some time since taking some information technology classes back in high school, and I have really enjoyed immersing myself in the field. I hope to become a senior developer in a few years to mentor others, possibly including others trying to make career shifts as I have.
 
