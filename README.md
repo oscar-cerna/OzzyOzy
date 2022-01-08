@@ -11,11 +11,11 @@ Since deciding to shift careers, I have developed applications using both Node.j
 
 ### Languages and Tools:
 
-<img align="left" alt="C-Sharp" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+
+<img align="left" alt=".NET" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
 
 <img align="left" alt="C-Sharp" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 
 <img align="left" alt="AngularJs" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
      
