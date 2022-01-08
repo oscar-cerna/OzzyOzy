@@ -11,7 +11,7 @@ Since deciding to shift careers, I have developed applications using both Node.j
 
 ### Languages and Tools:
 
-<img align="left" alt="DotNet" width="26px" src="[![Azure](https://alligatortek.com/wp-content/uploads/2017/09/image115.png)](https://azure.microsoft.com/es-es/)">
+<img align="left" alt="DotNet" width="26px" src="https://alligatortek.com/wp-content/uploads/2017/09/image115.png">
 
 <img align="left" alt="C-Sharp" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
 
