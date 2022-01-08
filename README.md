@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Oscar Cerna aka Ozzy
+# 👋 Hi, I'm Oscar Cerna [Ozzy]
 
 ## ㊗️ About Me 
 <p>
