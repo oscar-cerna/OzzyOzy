@@ -2,9 +2,10 @@
 
 ## ㊗️ About Me 
 <p>
-I am a full-stack .NET developer with experience building multi-tiered web applications. I received my undergrad degree from The Art Institute of Atlanta. After working in the legal field for several years, I decided to shift my career to technology. I've been interested in coding and software development for some time since taking some information technology classes back in high school, and I have really enjoyed immersing myself in the field. I hope to become a senior developer in a few years to mentor others, possibly including others trying to make career shifts as I have.
+I am a full-stack .NET developer with experience building multi-tiered web applications. I received my undergrad degree from The Art Institute of Atlanta. Subsequently, i worked in the legal field as a certified Paralegal. After working in the legal field for several years, I decided to shift my career to technology. I've been interested in coding and software development for some time since taking some coding classes as an undergrad, and I have really enjoyed immersing myself in the field.
 
-Since deciding to shift careers, I have developed applications using both Node.js and C# in a .NET environment. During my time at Revature, I have worked on several projects which expanded my skill set with both backend (including .NET, ASP.NET, Entity Framework, SQL, and SOA) and frontend technologies (HTML, CSS, JS, Typescript, and Angular). I've gained experience deploying my applications to the cloud making use of CI/CD tools, primarily Azure DevOps pushed to the Azure cloud. I am eager and excited to apply all of my skills and prior experience in a position on your team.
+Since deciding to shift careers, i have developed applications using C# in a .NET environment. I have worked on serval projects which expanded my skill-set in the backend (including .NET, ASP.NET, Entity Framework, SQL, and SOA) and frontend technologies (HTML, CSS, JS, Typescript, and Angular). I've also gained experience deploying my applications to the cloud making use of CI/CD tools, primarily Azure DevOps pushed to the Azure cloud. 
+
 </p>
 
 ### "Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs
