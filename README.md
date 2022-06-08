@@ -21,6 +21,15 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/ios-filled/50/000000/github.png">
 
+<img src="https://img.icons8.com/color/48/undefined/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/undefined/css3.png"/>
+<img src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/>
+<img width="50px" src="https://img.icons8.com/office/40/undefined/react.png"/>
+<img width="50px" src="https://img.icons8.com/color/48/undefined/angularjs.png"/>
+<img alt="DotNet" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"/> 
+<img width="50px" src="https://img.icons8.com/color/48/undefined/c-sharp-logo.png"/>
+<img width="50px" src="https://img.icons8.com/color/48/undefined/microsoft-sql-server.png"/>
+<img width="50px" src="https://img.icons8.com/ios-filled/50/undefined/github.png"/>
+<img alt="VSCode" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/>
 
 
 
