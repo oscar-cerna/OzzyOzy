@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Oscar Cerna [Ozzy]
 
 ## ㊗️ About Me 
-<p> Goal-oriented Web Developer. Capable of working well independently or as part of a professional development team. Passionate about Programming, Innovation and Technology. Experienced in .NET Full-Stack Web Development with fundamental knowledge of software design, development, and testing. Seeking to utilize broad background with proficient technical and programming skills to thrive as an junior front-end developer. </p>
+<p> Goal-oriented Web Developer. Capable of working well independently or as part of a professional development team. Passionate about Programming, Innovation and Technology. Experienced in .NET Full-Stack Web Development with fundamental knowledge of software design, development, and testing. Seeking to utilize broad background with proficient technical and programming skills to thrive as a front-end developer. </p>
 
 ### "Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs
 
