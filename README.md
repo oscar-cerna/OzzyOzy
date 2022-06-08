@@ -1,17 +1,7 @@
 # 👋 Hi, I'm Oscar Cerna [Ozzy]
 
 ## ㊗️ About Me 
-<p>
-     
-I am a full-stack .NET developer with Revature. I have been with Revature for 3 months, working to towards being the best developer I can be.  During my time with Revature, I have built multi-tiered web applications  both solely and with a team. 
-
-Before Revature, I received my undergrad degree from The Art Institute of Atlanta. Subsequently, I worked in the legal field as a certified Paralegal. After working in the legal field for several years, I decided to shift my career to technology. I've been interested in coding and software development for some time since taking some coding classes as an undergrad, and I have really enjoyed immersing myself in the field.
-
-Since deciding to shift careers, i have developed applications using C# in a .NET environment. During my time at Revature, I have worked on serval projects which expanded my skillset in the backend (including .NET, ASP.NET, Entity Framework, SQL, and SOA) and frontend technologies (HTML, CSS, JS, Typescript, and Angular). I've also gained experience deploying my applications to the cloud making use of CI/CD tools, primarily Azure DevOps pushed to the Azure cloud. 
-
-I am eager and excited to apply all the skills and the experience on my path to becoming a Senior Developer.
-
-</p>
+<p> Goal-oriented Junior Web Developer. Capable of working well independently or as part of a professional development team. Passionate about Programming, Innovation and Technology. Experienced in .NET Full-Stack Web Development with fundamental knowledge of software design, development, and testing. Seeking to utilize broad background with proficient technical and programming skills to thrive as an junior front-end developer. </p>
 
 ### "Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs
 
