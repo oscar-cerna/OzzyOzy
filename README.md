@@ -5,7 +5,8 @@
 
 ### Languages and Tools:
 <div align="center">
-    <img src="[https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor](https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor)" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40"/>&nbsp;
     <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
 </div>
 
