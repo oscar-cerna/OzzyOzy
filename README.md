@@ -9,7 +9,6 @@
 
 <img src="https://img.icons8.com/color/48/undefined/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/undefined/css3.png"/>
 <img src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/>
-<img width="50px" src="https://img.icons8.com/office/40/undefined/react.png"/>
 <img width="50px" src="https://img.icons8.com/color/48/undefined/angularjs.png"/>
 <img alt="DotNet" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"/> 
 <img width="50px" src="https://img.icons8.com/color/48/undefined/c-sharp-logo.png"/>
